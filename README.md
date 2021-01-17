@@ -15,7 +15,7 @@
 <img src="Images/ProcessCatData.png">
 
 
-<img src="Images/LinReg/Lasso.png">
+<img src="Images/LinReg:Lasso.png">
 
 
 <img src="Images/DT_minsamples.png">
